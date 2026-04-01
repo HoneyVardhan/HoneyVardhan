@@ -1,12 +1,3 @@
-## Hi, I'm HoneyVardhan ✨
-
-- 📖 I'm a computer science student 
-- 🔭 I’m currently working on ZK Privacy Prediction Market
-- 🌱 I’m currently learning Ai dev
-- 💬 Dont Ask me about what your next move.
-- 📫 How to reach me: https://www.instagram.com/itszme_sonu/
-- ⚡ Fun fact: I'm a vibe coder !!
--->
 # 💫 About Me:
 ## Hi, I'm HoneyVardhan ✨<br><br>- 📖 I'm a computer science student <br>- 🔭 I’m currently working on ZK Privacy Prediction Market<br>- 🌱 I’m currently learning Ai dev<br>- 💬 Dont Ask me about what your next move.<br>- 📫 How to reach me: https://www.instagram.com/itszme_sonu/<br>- ⚡ Fun fact: I'm a vibe coder !!
 
